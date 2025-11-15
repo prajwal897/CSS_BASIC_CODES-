@@ -1,0 +1,38 @@
+body{
+    font-family:'poppins',sans-serif;
+    background-color:lightblue;
+    color:black;
+    margin;40px;
+}
+.resume
+{
+    background-color:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow: 0 0 10p rgbs(0,0,0,0.1);
+    max-width:600px;
+    margin:auto;
+}
+h1{
+    color:#0078d7;
+    text-align:center;
+    text-transform:uppercase;
+}
+
+h2{
+    color:#555;
+    text-align:center;
+    font-style:italic;
+}
+h3{
+    color:#0078d7;
+    border-bottom:2px solid #0078d7;
+    padding-bottom:5px;
+
+}
+ul{
+    line-height:1.8;
+}
+p{
+    line-height:1.6;
+}
